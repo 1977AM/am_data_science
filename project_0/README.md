@@ -6,7 +6,7 @@
 [3. Краткая информация о данных](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)<br>
 [4. Этапы работы над проектом](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)<br>
 [5. Результаты](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Результаты)<br>
-[6. Выводы](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Выводы)
+[6. Выводы](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Выводы)<br>
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.

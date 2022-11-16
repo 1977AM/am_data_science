@@ -1,12 +1,12 @@
 # Проект 0. Угадай число!
 
 ## Оглавление
-[1. Описание проекта](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Описание-проекта)<br>
-[2. Какой кейс решаем](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Какой-куйс-решаем)<br>
-[3. Краткая информация о данных](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)<br>
-[4. Этапы работы над проектом](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)<br>
-[5. Результаты](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Результаты)<br>
-[6. Выводы](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Выводы)<br>
+1. [Описание проекта](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Описание-проекта)
+2. [Какой кейс решаем](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Какой-куйс-решаем)
+3. [Краткая информация о данных](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
+5. [Результаты](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Результаты)
+6. [Выводы](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.

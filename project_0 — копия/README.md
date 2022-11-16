@@ -28,24 +28,20 @@
 
 ### Краткая информация о данных
 
-number (int, optional): Загаданное число. Defaults to 1.
-dn_number: нижняя граница поиска
-up_number: верхняя граница поиска
+....
 :arrow_up:[к оглавлению](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
-- Написание алгоритма
-- Написание кода
-- Написание навигации
+....
 :arrow_up:[к оглавлению](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Результаты
 
-Программа работает. Среднее количество попыток - 8
+....
 :arrow_up:[к оглавлению](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Выводы
 
-Правильно освоил материал
+....
 :arrow_up:[к оглавлению](https://github.com/1977AM/am_data_science/tree/main/project_0/README.md#Оглавление)

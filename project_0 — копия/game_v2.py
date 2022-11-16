@@ -4,33 +4,23 @@
 
 import numpy as np
 
-
 def random_predict(number:int=1) -> int:
     """Рандомно угадываем число
 
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
-        dn_number: нижняя граница поиска
-        up_number: верхняя граница поиска
 
     Returns:
         int: Число попыток
-        
-        
     """
 
     count = 0
-    dn_number = 1
-    up_number = 101
+
     while True:
         count += 1
-        predict_number = np.random.randint(dn_number, up_number) # предполагаемое число
+        predict_number = np.random.randint(1, 101) # предполагаемое число
         if number == predict_number:
             break # выход из цикла, если угадали
-        if predict_number > number:
-            up_number = predict_number
-        elif predict_number < number:
-            dn_number = predict_number
     return(count)
 
 def score_game(random_predict) -> int:
